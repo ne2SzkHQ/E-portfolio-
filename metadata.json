@@ -1,0 +1,6 @@
+{
+  "name": "EduBridge ePortfolio",
+  "description": "Official TVET CDACC Digital ePortfolio system for candidate registration, portfolio of evidence (PoE) submission, assessor grading, and verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
